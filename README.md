@@ -4,7 +4,7 @@
 In this project I made a website that can generate a password randomly that is strong and provides security. 
 
 ## Repository
-Link to deployed code: 
+Link to deployed code: https://freddylau815.github.io/password_generator_website/
 
 ## Technologies
 - JavaScript was used to create functions that generate a random password 
